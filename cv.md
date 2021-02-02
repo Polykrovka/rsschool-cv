@@ -1,7 +1,7 @@
 ## Curriculum vitae
 1. ##### Anton Nedvedz
 1. ##### Contacts
-* **email**: 2595092@gmail.com
+    * **email**: 2595092@gmail.com
     * **phone**: +375 25 908 46 30
     * **social networks**:
         * **Telegram**: @llolykrovka

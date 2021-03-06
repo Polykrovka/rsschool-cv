@@ -1,0 +1,15 @@
+body {
+  width: 800px;
+  margin: auto;
+}
+.codeExample {
+  margin-left: 20px;
+  background-color: #F6F8FA;
+}
+p{
+  margin-left: 20px;
+}
+footer{
+  text-align: right;
+  font-size: 70%;
+}

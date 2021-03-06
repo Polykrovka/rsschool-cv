@@ -1,1 +1,1 @@
-https://Polykrovka.github.io/rsschool-cv/cv
+https://polykrovka.github.io/rsschool-cv/
